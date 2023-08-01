@@ -16,4 +16,4 @@
 - [TacoDark](https://github.com/TacoDark)
 # Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SkyOPC&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyOPC&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyOPC&show_icons=true&theme=radical)
